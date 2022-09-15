@@ -27,8 +27,7 @@
 
 
 ## Portafolio  
-[Spotify ETL últimas canciones escuchadas
-](https://github.com/ginosaurio/spotify_et)  
+[Spotify ETL últimas canciones escuchadas](https://github.com/ginosaurio/spotify_etl)  
   
 
 <br/>  
